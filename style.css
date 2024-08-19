@@ -10,8 +10,8 @@
     height: 100vh;
     background-color: #e3f9ff;
     background-image: url('/assets/pexels-pixabay-434337.jpg');
-    background-size: cover; /* Ensure the image fits within the container */
-    background-position: center; /* Center the background image */
+    background-size: cover;
+    background-position: center; 
     background-repeat: no-repeat; 
     display: flex;
     align-items: center;
